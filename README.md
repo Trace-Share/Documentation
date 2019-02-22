@@ -1,4 +1,4 @@
-# <img src="https://is.muni.cz/www/325314/logo.png" width="50%"/>
+<img src="https://is.muni.cz/www/325314/logo.png" width="50%"/>
 
 An open platform for creation and sharing of network traffic traces.
 
