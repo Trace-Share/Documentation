@@ -20,6 +20,7 @@ The project is organized within the [Trace-Share](https://github.com/Trace-Share
 - [Trace-Creator](https://github.com/Trace-Share/Trace-Creator) - toolset for automated creation of network traffic traces
 - [Trace-Normalizer](https://github.com/Trace-Share/Trace-Normalizer) - toolset for normalization of network traffic traces
 - [ID2T](https://github.com/Trace-Share/ID2T) – fork of the official ID2T repository extended by functions to modify and combine existing packet traces
+- [Evaluation](https://github.com/Trace-Share/Evaluation) - evaluation of the trace combination approach
 - [Trace-API](https://github.com/Trace-Share/Trace-API) – REST API to support processing of packet traces
 - [Deployment](https://github.com/Trace-Share/Deployment) – automated deployment of the Trace-Share environment
 - [Documentation](https://github.com/Trace-Share/Documentation) – project overview and documentation 
